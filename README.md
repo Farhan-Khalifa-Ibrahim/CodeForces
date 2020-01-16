@@ -1,2 +1,1 @@
-#CodeForce
-[My Account] (https://codeforces.com/profile/FarhanKhalifa)
+[My Account](https://codeforces.com/profile/FarhanKhalifa).

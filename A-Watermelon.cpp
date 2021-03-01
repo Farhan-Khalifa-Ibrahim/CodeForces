@@ -1,16 +1,20 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-int main(){
+int main()
+{
     int weight;
-    cin>>weight;
-    if(weight<=2){
-        cout<<"NO"<<endl;
+    cin >> weight;
+    if (weight <= 2)
+    {
+        cout << "NO" << endl;
     }
-    else if(weight%2==0){
-        cout<<"YES"<<endl;
+    else if (weight % 2 == 0)
+    {
+        cout << "YES" << endl;
     }
-    else{
-        cout<<"NO"<<endl;
+    else
+    {
+        cout << "NO" << endl;
     }
 }
